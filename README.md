@@ -3,12 +3,7 @@ CSI 4999 - Senior Capstone
 APCT - All-Purpose Customer Tracker
 
 # Group Members
-Richard Clemence
-Andrew Edillo
-Evan Kennedy
-Chad Schulte
-Sagar Tailor
-Kip Tucker
+Richard Clemence, Andrew Edillo, Evan Kennedy, Chad Schulte, Sagar Tailor, Kip Tucker
 
 **CHANGELOG**
 
